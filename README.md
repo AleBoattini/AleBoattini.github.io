@@ -1,17 +1,5 @@
 # Portfolio Personal - Alejandro Boattini
 
-Portfolio profesional one-page diseñado como CV/Portfolio para mostrar experiencia, proyectos y servicios como Consultor BI & Analista de Datos.
-
-## Características
-
-- Diseño moderno y minimalista con paleta de colores pastel
-- Totalmente responsive (mobile-first)
-- Animaciones suaves al hacer scroll
-- Optimizado para SEO y accesibilidad
-- Performance optimizado
-- Navegación smooth entre secciones
-- Cards interactivas para proyectos y servicios
-
 ## Tecnologías Utilizadas
 
 - HTML5 semántico
@@ -32,54 +20,12 @@ CV/
 └── .gitignore          # Archivos a ignorar en Git
 ```
 
-## Despliegue en GitHub Pages
-
-### Opción 1: Despliegue Automático (Recomendado)
-
-1. **Crear repositorio en GitHub:**
-   ```bash
-   # Inicializar git si aún no lo hiciste
-   git init
-
-   # Agregar todos los archivos
-   git add .
-
-   # Hacer commit inicial
-   git commit -m "Initial commit: Portfolio website"
-
-   # Crear repositorio en GitHub (reemplaza 'tu-usuario')
-   git remote add origin https://github.com/tu-usuario/tu-usuario.github.io.git
-
-   # Subir al repositorio
-   git branch -M main
-   git push -u origin main
-   ```
-
-2. **Habilitar GitHub Pages:**
-   - Ve a tu repositorio en GitHub
-   - Click en **Settings** → **Pages**
-   - En **Source**, selecciona la rama `main` y carpeta `/ (root)`
-   - Click en **Save**
-   - Espera 1-2 minutos y tu sitio estará disponible en: `https://tu-usuario.github.io/`
-
-### Opción 2: Repositorio Personalizado
-
-Si prefieres un nombre de repositorio diferente:
-
-```bash
-# Crear repositorio con nombre personalizado
-git remote add origin https://github.com/tu-usuario/portfolio.git
-git push -u origin main
-```
-
-Luego en **Settings → Pages**, tu sitio estará en:
-`https://tu-usuario.github.io/portfolio/`
-
 ## Configuración Inicial
 
 ### 1. Agregar Foto de Perfil
 
 Coloca tu foto de perfil en la carpeta raíz del proyecto con el nombre `profile.jpg`. Asegúrate de que:
+
 - Sea cuadrada (relación 1:1)
 - Tenga buena resolución (mínimo 400x400px)
 - Sea menor a 500KB para mejor rendimiento
@@ -87,6 +33,7 @@ Coloca tu foto de perfil en la carpeta raíz del proyecto con el nombre `profile
 ### 2. Personalizar Contenido
 
 Edita `index.html` para actualizar:
+
 - Información personal
 - Proyectos destacados
 - Servicios ofrecidos
@@ -108,6 +55,7 @@ Edita `styles.css` en la sección de variables CSS:
 ## Secciones del Portfolio
 
 ### 1. Hero Section
+
 - Foto de perfil circular con animación
 - Nombre y título profesional
 - Descripción personal
@@ -115,42 +63,26 @@ Edita `styles.css` en la sección de variables CSS:
 - Botones de contacto (Ver CV, LinkedIn y Telegram)
 
 ### 2. Proyectos Destacados
+
 - 3 proyectos principales con descripción
 - Tecnologías utilizadas
 - Impacto/resultados medibles
 
 ### 3. Servicios
+
 - 3 servicios principales ofrecidos
 - Cards clickables que redirigen a Telegram
 - Descripciones detalladas
 
 ### 4. Contacto
+
 - Email, teléfono, Telegram y CV
 - Enlaces directos para comunicación
 
 ### 5. Footer
+
 - Enlaces a redes sociales (CV, LinkedIn, Telegram, Email)
 - Copyright
-
-## Optimizaciones Incluidas
-
-### SEO
-- Meta tags optimizados
-- Open Graph para redes sociales
-- Estructura semántica HTML5
-- Alt texts en imágenes
-
-### Performance
-- CSS minificado mediante variables
-- Lazy loading de secciones
-- Throttling en eventos de scroll
-- Fuentes optimizadas con preconnect
-
-### Accesibilidad
-- HTML semántico
-- Navegación por teclado
-- ARIA labels donde corresponde
-- Contraste de colores adecuado
 
 ## Mantenimiento
 
@@ -185,46 +117,6 @@ Edita la sección `#proyectos` en `index.html`:
 
 Edita la sección `#servicios` en `index.html` siguiendo la misma estructura de las cards existentes.
 
-## Comandos Git Útiles
-
-```bash
-# Ver estado de cambios
-git status
-
-# Agregar cambios
-git add .
-
-# Hacer commit
-git commit -m "Descripción de los cambios"
-
-# Subir cambios a GitHub
-git push origin main
-
-# Ver historial de commits
-git log --oneline
-```
-
-## Troubleshooting
-
-### La página no se muestra
-
-1. Verifica que el archivo se llame exactamente `index.html`
-2. Revisa la configuración de GitHub Pages en Settings
-3. Espera 1-2 minutos después de hacer push
-4. Revisa la consola del navegador por errores
-
-### La imagen no se muestra
-
-1. Verifica que `profile.jpg` esté en la raíz del proyecto
-2. Asegúrate de que el nombre sea exactamente `profile.jpg` (minúsculas)
-3. Si usas otro formato (PNG), actualiza el nombre en `index.html`
-
-### Los estilos no se aplican
-
-1. Verifica que `styles.css` esté en la raíz
-2. Limpia la caché del navegador (Ctrl + Shift + R)
-3. Revisa la consola del navegador por errores
-
 ## Mejoras Futuras
 
 Posibles mejoras que puedes implementar:
@@ -245,6 +137,7 @@ Este proyecto es de uso personal. Siéntete libre de usarlo como plantilla para 
 ## Contacto
 
 **Alejandro Boattini**
+
 - LinkedIn: [linkedin.com/in/alejandroboattini](https://www.linkedin.com/in/alejandroboattini/)
 - Telegram: [@aleboa](https://t.me/aleboa)
 - Email: boattiniad@gmail.com
