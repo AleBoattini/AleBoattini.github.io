@@ -228,8 +228,8 @@ a {
 
 .profile-image-wrapper {
     margin: 0 auto var(--spacing-md);
-    width: 180px;
-    height: 180px;
+    width: 240px;
+    height: 240px;
     border-radius: var(--radius-full);
     padding: 6px;
     background: linear-gradient(135deg, var(--color-primary), var(--color-secondary), var(--color-accent));
