@@ -1,0 +1,383 @@
+{
+  "basics": {
+    "name": "Ale boattini",
+    "headline": "Analista de datos | Ingeniero industrial | Aspirante a lider",
+    "email": "boattiniad@gmail.com",
+    "phone": "+54-3743 451658",
+    "location": "Argentina",
+    "url": {
+      "label": "in/alejandroboattini/",
+      "href": "https://www.linkedin.com/in/alejandroboattini/"
+    },
+    "customFields": [],
+    "picture": {
+      "url": "https://media.licdn.com/dms/image/v2/D4D03AQH1jDxcBlqBlw/profile-displayphoto-shrink_800_800/B4DZdb749xHMAk-/0/1749594117187?e=1757548800&v=beta&t=SMVRO4d2kMmGZxkluvuc2l4CjMh25A4IGSzMfd4iQrg",
+      "size": 50,
+      "aspectRatio": 1,
+      "borderRadius": 6,
+      "effects": {
+        "hidden": false,
+        "border": false,
+        "grayscale": false
+      }
+    }
+  },
+  "sections": {
+    "summary": {
+      "name": "Resumen",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "summary",
+      "content": "<p>Analista de Datos y Consultor BI con más de 3 años de experiencia transformando datos en estrategias de negocio accionables. Mi formación como Ingeniero Industrial me permite aplicar un enfoque sistémico para optimizar procesos, definir KPIs de alto impacto y liderar proyectos de Business Intelligence. Experto en SQL, Python y herramientas de visualización como Power BI y Quicksight, con un historial probado en la automatización de ETLs y la creación de dashboards que han reducido tiempos de análisis y mejorado la toma de decisiones. Actualmente, expando mis habilidades en Machine Learning para desarrollar soluciones predictivas y de automatización.<br></p>"
+    },
+    "awards": {
+      "name": "Awards",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "awards",
+      "items": []
+    },
+    "certifications": {
+      "name": "Certifications",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "certifications",
+      "items": []
+    },
+    "education": {
+      "name": "Educación",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "education",
+      "items": [
+        {
+          "id": "d7s0i4y3ik33mmqrlniucijl",
+          "visible": true,
+          "institution": "Universidad Nacional de Misiones",
+          "studyType": "Carrera de grado",
+          "area": "Ingeniería industrial",
+          "score": "",
+          "date": "Feb 2015 - Nov 2022",
+          "summary": "<p>Control de gestion y proyectos, gestión de la calidad, planes de<br>negocio, indicadores de control. Analisis e investigacion de<br>mercado. Son algunas de las habilidades adquiridas.</p>",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        },
+        {
+          "id": "eeqqoy8p6f94r4p68p5m2kgl",
+          "visible": true,
+          "institution": "Universidad Nacional de Misiones",
+          "studyType": "Curso de Posgrado",
+          "area": "Inteligencia artificial aplicada a la ingenieria con python",
+          "score": "",
+          "date": "Ago 2024 - Feb 2024",
+          "summary": "<p>Posgrado destinado a análisis de datos usando técnicas de maching learning, redes neuronales para encontrar patrones y resolver problemas de la industria con automatización y desarrollo tecnológico. </p>",
+          "url": {
+            "label": "",
+            "href": "https://drive.google.com/file/d/10WrI18bnzAAJScAbLMgfmIXIwez6lYuB/view"
+          }
+        }
+      ]
+    },
+    "experience": {
+      "name": "Experiencia",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "experience",
+      "items": [
+        {
+          "id": "bdrkiinv2qmomf34eituxzv2",
+          "visible": true,
+          "company": "Crack The Code",
+          "position": "Sr Data Analyst",
+          "location": "Peru",
+          "date": "Enero 2025 - Actualidad",
+          "summary": "<p>Lideré iniciativas de datos para optimizar la toma de decisiones en áreas clave. Mis contribuciones se centraron en: </p><ul><li><p>Automatización de ETLs: Desarrollé y mantuve pipelines de datos con SQL y Python, logrando una reducción del 40% en tiempos de procesamiento y asegurando la integridad de los datos para análisis.</p></li><li><p>Visualización Estratégica: Creé y gestioné más de 10 dashboards en Metabase y Quicksight.  </p></li><li><p>Consultoría y Liderazgo Técnico: Asesoré a equipos de negocio en la adopción de herramientas analíticas, fomentando una cultura data-driven y mejorando la eficiencia operativa en un 20% al democratizar el acceso a la información. </p></li><li><p>Iniciativas de ML: Implementé un script de clasificación en Python para categorizar respuestas a cuestionarios, reduciendo la carga de trabajo manual del equipo</p></li></ul>",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        },
+        {
+          "id": "f2tz1crhtleow95rt4fs918b",
+          "visible": true,
+          "company": "Consultor BI",
+          "position": "",
+          "location": "LATAM",
+          "date": "Jun 2023 - Actualidad",
+          "summary": "<p>Consultoría independiente para PyMEs en LATAM, enfocada en la implementación de soluciones de Business Intelligence de punta a punta.</p><ul><li><p>Liderazgo de Proyectos:  Gestioné el ciclo de vida completo de 4 proyectos de BI, desde la definición de requerimientos con stakeholders hasta la entrega final, cumpliendo el 100% de los plazos.</p></li><li><p>Impacto en Negocio:  Para un cliente del sector retail, desarrollé un dashboard en Power BI que integraba datos de ventas y marketing,  revelando insights que permitieron optimizar su inventario y aumentar las ventas en un 12%. </p></li><li><p>Transformación de Datos:  Implementé procesos ETL robustos utilizando SQL y Python, consolidando datos de múltiples fuentes para facilitar análisis complejos y el storytelling de datos.</p></li></ul>",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        },
+        {
+          "id": "rjlk6lsoz0id5wywn7cv572y",
+          "visible": true,
+          "company": "Escuela Provincial de Educación Tecnica",
+          "position": "Profesor de sistemas de control",
+          "location": "Misiones, Argentina",
+          "date": "Abr 2024 - Jun 2025",
+          "summary": "<p>Como docente, traduje conceptos complejos de automatización y control a un currículo práctico y accesible para futuros técnicos. Aunque no es un rol de analista, me permitió desarrollar habilidades clave: </p><ul><li><p>Mentoricé a más de 60 estudiantes, guiándolos en proyectos técnicos finales y fomentando el pensamiento analítico para la resolución de problemas.</p></li><li><p>Diseñé y ejecuté un plan de estudios basado en proyectos, logrando una  tasa de aprobación del 95% y preparando a los estudiantes con las competencias técnicas demandadas por la industria. </p></li><li><p>Fomenté la aplicación práctica de la teoría, habilidad que aplico para comunicar insights técnicos a audiencias no especializadas.</p></li></ul>",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        },
+        {
+          "id": "jnsk9fse6hlye6gvboroynm6",
+          "visible": true,
+          "company": "Discoverit.store",
+          "position": "Analista de datos",
+          "location": "Buenos Aires, Argentina",
+          "date": "Jun 2023 - Dic 2024",
+          "summary": "<p>Transformación y análisis de datos para diversas áreas del e-commerce.</p><ul><li><p>Análisis de datos para ventas, comercial y marketing.</p></li><li><p>Creación de dashboards y reportes para seguimiento de KPIs.</p></li><li><p>Evaluación de costos, tiempos y desempeño.</p></li><li><p>Apoyo en decisiones estratégicas basadas en insights clave.</p></li><li><p>Mejora de eficiencia y automatización de tareas</p></li></ul>",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        },
+        {
+          "id": "c9nuv0k4pcjhi6zyn2wv32ma",
+          "visible": true,
+          "company": "Papel Misionero - Grupo Arcor",
+          "position": "Analista de expedición",
+          "location": "Misiones, Argentina",
+          "date": "Ago 2022 - Feb 2023",
+          "summary": "<p>El desarrollo de la actividad tuvo el objetivo de mejorar el flujo de productos del deposito y la información entre las distintas áreas realizando:</p><ul><li><p>Planificación de despachos y Gestión de Inventarios.</p></li><li><p> Análisis de Datos y elaboración de métricas (KPIs).</p></li><li><p>Elaboración de Dashboards en Excel y Microstrategy.</p></li><li><p>Reducción de ocupación del deposito y mejoras en tiempos de despachos.</p></li></ul>",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        }
+      ]
+    },
+    "volunteer": {
+      "name": "Volunteering",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "volunteer",
+      "items": []
+    },
+    "interests": {
+      "name": "Interests",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "interests",
+      "items": []
+    },
+    "languages": {
+      "name": "Idioma",
+      "columns": 3,
+      "separateLinks": true,
+      "visible": true,
+      "id": "languages",
+      "items": [
+        {
+          "id": "c6mku5g62fzezoqddlfoiyae",
+          "visible": true,
+          "name": "Ingles",
+          "description": "Conocimiento técnico",
+          "level": 2
+        },
+        {
+          "id": "q83z4g75itgtmodhaa90g58c",
+          "visible": true,
+          "name": "Portuguez",
+          "description": "Conocimiento técnico",
+          "level": 2
+        }
+      ]
+    },
+    "profiles": {
+      "name": "Profiles",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "profiles",
+      "items": []
+    },
+    "projects": {
+      "name": "Proyectos",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "projects",
+      "items": [
+        {
+          "id": "zh3hhwcdw6m2wag4331wctj2",
+          "visible": true,
+          "name": "Analisis aumentado por IA para encuestas estudiantiles",
+          "description": "Automatización de análisis de feedback estudiantil usando Python y LLMs",
+          "date": "",
+          "summary": "<p>Medir el impacto de los proyectos mediante el análisis de encuestas de entrada y salida de estudiantes, un proceso previamente manual y lento.</p><ul><li><p>Acción: Desarrollé un script en Python que automatiza la ingesta y análisis de datos. Integré una API de un LLM para interpretar los gráficos y traducirlos en insights accionables, identificando patrones en el feedback de los estudiantes.</p></li><li><p>Resultado: Se generaron reportes de alto impacto en minutos en lugar de días. Los insights permitieron al equipo interactuar de manera mas clara con los clientes y liberar su tiempo para otras actividades.</p><p>Tecnologías: Python, Pandas, LLM, APIs, Matplotlib.</p></li></ul>",
+          "keywords": [],
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        },
+        {
+          "id": "ip7yaql7mr6evy7p0sto2fub",
+          "visible": true,
+          "name": "Dashboard de inteligencia de precios para Retail",
+          "description": "Creación de un sistema de monitoreo de precios de la competencia mediante web scrapping",
+          "date": "",
+          "summary": "<p>Monitorear precios y disponibilidad de productos de la competencia para un cliente del sector retail de forma automatizada. </p><ul><li><p>Acción:  Construí un pipeline de datos completo que realiza web scraping diario a supermercados líderes con Python (Scrapy). Los datos se almacenan en una base de datos SQL y se visualizan en un dashboard dinámico en Power BI.</p></li><li><p>Resultado:  El cliente obtuvo visibilidad en tiempo real del mercado, permitiéndole ajustar precios proactivamente</p><p>Tecnologías:  Python, Scrapy, SQL, Power BI, ETL.</p></li></ul>",
+          "keywords": [],
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        }
+      ]
+    },
+    "publications": {
+      "name": "Publications",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "publications",
+      "items": []
+    },
+    "references": {
+      "name": "References",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "references",
+      "items": []
+    },
+    "skills": {
+      "name": "Skills",
+      "columns": 3,
+      "separateLinks": true,
+      "visible": true,
+      "id": "skills",
+      "items": [
+        {
+          "id": "ft6amz2bkfje4yqnw1jqtrx1",
+          "visible": true,
+          "name": "SQL",
+          "description": "Análisis de datos",
+          "level": 4,
+          "keywords": [
+            "Athena",
+            "Postgresql",
+            " "
+          ]
+        },
+        {
+          "id": "vprtbvyzees74k2cn3n3m3tl",
+          "visible": true,
+          "name": "Python",
+          "description": "Análisis de datos y técnicas de ML",
+          "level": 4,
+          "keywords": [
+            "py",
+            "python",
+            "data",
+            "pandas",
+            "numpy",
+            "sklearn",
+            "mathplotlib"
+          ]
+        },
+        {
+          "id": "us2xajmnj0pfie40soki12te",
+          "visible": true,
+          "name": "PowerBI",
+          "description": "Analisis de datos",
+          "level": 4,
+          "keywords": [
+            "DAX",
+            "M",
+            "powerquery",
+            "dashboard",
+            "kpis"
+          ]
+        },
+        {
+          "id": "a0y9z5es38dqbdlnvbpjksus",
+          "visible": true,
+          "name": "Quicksight",
+          "description": "Análisis de datos",
+          "level": 4,
+          "keywords": []
+        },
+        {
+          "id": "pffuree3p7so59yphm67t014",
+          "visible": true,
+          "name": "Metabase",
+          "description": "Analisis de datos",
+          "level": 4,
+          "keywords": []
+        }
+      ]
+    },
+    "custom": {}
+  },
+  "metadata": {
+    "template": "kakuna",
+    "layout": [
+      [
+        [
+          "profiles",
+          "summary",
+          "experience",
+          "projects",
+          "education",
+          "references",
+          "volunteer"
+        ],
+        [
+          "skills",
+          "interests",
+          "certifications",
+          "awards",
+          "publications",
+          "languages"
+        ]
+      ]
+    ],
+    "css": {
+      "value": "* {\n\toutline: 1px solid #000;\n\toutline-offset: 4px;\n}",
+      "visible": false
+    },
+    "page": {
+      "margin": 14,
+      "format": "a4",
+      "options": {
+        "breakLine": true,
+        "pageNumbers": true
+      }
+    },
+    "theme": {
+      "background": "#ffffff",
+      "text": "#000000",
+      "primary": "#475569"
+    },
+    "typography": {
+      "font": {
+        "family": "IBM Plex Serif",
+        "subset": "latin",
+        "variants": [
+          "regular"
+        ],
+        "size": 12.45
+      },
+      "lineHeight": 1.35,
+      "hideIcons": false,
+      "underlineLinks": false
+    },
+    "notes": ""
+  }
+}
